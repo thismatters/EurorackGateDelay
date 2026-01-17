@@ -2102,7 +2102,7 @@
     (property "Reference" "R8" (at 167.005 44.45 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "110K" (at 169.545 44.45 90)
+    (property "Value" "22K" (at 169.545 44.45 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 175.133 44.45 90)
